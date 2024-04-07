@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+body{
+    padding-top:250px;
+    height: 100vh;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.603)),url('imges/bugatti_chiron_super_sport_300_prototype_4k_5k_hd_cars-3840x2160.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container{
+   width: 1200px;
+   margin: 0 auto;
+ 
+}
+form{
+    color: rgb(255, 255, 255);
+
+}
+a{
+    text-decoration: none;
+    color: rgb(15, 13, 11);
+    border: none;
+  }
+  
+
+
+
+
